@@ -1,6 +1,6 @@
 # NeoPixel-Watch
 This repository is for an arduino based watch and is based on this video:
-[![ScreenShot](https://raw.githubusercontent.com/powerpoint45/NeoPixel-Watch/master/video.png)](http://notyetuploaded)
+[![ScreenShot](https://raw.githubusercontent.com/powerpoint45/NeoPixel-Watch/master/video.png)](https://youtu.be/tTCyyzF9k3o)
 
 This is meant to run on the **DigiSpark ATTINY85 Mini Usb MCU Development Board** using the **DS3231 Real Time Clock** and the **Neopixel 12 Ring**
 
